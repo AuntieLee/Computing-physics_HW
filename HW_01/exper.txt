@@ -1,0 +1,25 @@
+Problem 1
+My experience with physics and computers
+
+1.The most advanced physics couse I have taken
+
+    目前我所修过的最前沿的物理学课程是《固体电子与自旋电子学导论》（Introduction to electronics and spintronics in solid)和《原子物理学》。
+    《固体电子与自旋电子学导论》主要介绍了量子力学和磁学基础，同时介绍了一些关于新型量子材料的前沿知识。
+    《原子物理学》主要涉及量子力学的基础，定性了解了关于量子力学的一些知识。
+    
+
+2.The most advanced mathematics course I have taken
+
+    目前修过的数学课程有《线性代数》《Calculus》以及《概率统计》，因为数学一直是作为物理学的工具来使用，所以很难区分出most advanced，在数学课堂上所学的知识，在物理学课程中都有所应用；如果要说所修数学课程中和物理学联系最紧密的课程，应该是《数学物理法》
+
+
+3.The list of the operating system and computer languages with the experience and the length of time I have worked with them
+
+    在《计算物理》课程以前，所接触的操作系统只有Windows，在课堂上第一次接触Linux
+    修过《C语言程序设计（基础）》，目前在自学Python，正处在C和Python的过渡期。虽然学习过C语言，但是对算法的了解非常少，大多只会用一些简单粗暴的计算来解决问题。
+
+
+4.The experience with Maple or Matlab
+
+    了解过Matlab,并用来写过光学模拟计算；从来没有接触过Maple
+

@@ -1,0 +1,11 @@
+Problem 2
+a)
+the smallest recession velocity: 3734
+the largest recession velocity: 78736
+b)
+the recession velocity of the brightest galaxies: 54610
+(the brightest galaxy: -22.7668247)
+the recession velocity of faintest galaxies: 3734
+(the fainth galaxy: -17.581007)
+c)
+There is a range of the galaxies can be observed, and the range is within [-22.7668247,-17.581007]
